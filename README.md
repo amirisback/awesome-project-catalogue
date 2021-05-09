@@ -25,3 +25,15 @@ List of amirisback android library
 | 6.  | consumable-code-the-cocktail-db-api | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-the-cocktail-db-api) |
 | 7.  | consumable-code-the-audio-db-api    | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-the-audio-db-api)    |
 | 8.  | consumable-code-covid-19-api        | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-covid-19-api)        |
+
+### Template
+| No  | Name                                | Language    | Link                                                                            |
+| --- | ----------------------------------- | ----------- | ------------------------------------------------------------------------------- |
+| 1.  | android-kick-start-project-template | Java/Kotlin | [Click Here](https://github.com/amirisback/android-kick-start-project-template) |
+| 2.  | android-architecture-modularization | Java/Kotlin | [Click Here](https://github.com/amirisback/android-architecture-modularization) |
+| 3.  | base-webview-project                | Java/Kotlin | [Click Here](https://github.com/amirisback/base-webview-project)                |
+
+
+### Medium Story
+| No  | Name                                | Language    | Link                                                                            |
+| --- | ----------------------------------- | ----------- | ------------------------------------------------------------------------------- |
