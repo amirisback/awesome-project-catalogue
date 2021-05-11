@@ -35,6 +35,6 @@ List of amirisback android library
 
 
 ### Medium Story
-| No  | Title                                | Project Name     | Link Story   | Link Story     |
-| --- | ------------------------------------ | ---------------- | -------------| -------------- |
-| 1.  | Cara membuat library androidmu sendiri dan mempublishnya di github | | [Click Here](https://faisalamircs.medium.com/cara-membuat-library-androidmu-sendiri-dan-mempublishnya-di-github-38fe042035ef) | |
+| No  | Title                                | Link Story       | Project      |
+| --- | ------------------------------------ | ---------------- | -------------|
+| 1.  | Cara membuat library androidmu sendiri dan mempublishnya di github | [Click Here](https://faisalamircs.medium.com/cara-membuat-library-androidmu-sendiri-dan-mempublishnya-di-github-38fe042035ef) | [mediumstory-app-of-lib](https://github.com/amirisback/mediumstory-app-of-lib) , [mediumstory-lib](https://github.com/amirisback/mediumstory-lib) |
