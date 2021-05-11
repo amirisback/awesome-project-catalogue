@@ -1,4 +1,4 @@
-# amirisback-android-lib-catalogue
+# amirisback-project-lib-catalogue
 [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@faisalamircs)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback) <br>
 List of amirisback android library
@@ -35,5 +35,6 @@ List of amirisback android library
 
 
 ### Medium Story
-| No  | Name                                | Language    | Link                                                                            |
-| --- | ----------------------------------- | ----------- | ------------------------------------------------------------------------------- |
+| No  | Title                                | Project Name     | Link Story   | Link Story     |
+| --- | ------------------------------------ | ---------------- | -------------| -------------- |
+| 1.  | Cara membuat library androidmu sendiri dan mempublishnya di github | | [Click Here](https://faisalamircs.medium.com/cara-membuat-library-androidmu-sendiri-dan-mempublishnya-di-github-38fe042035ef) | |
