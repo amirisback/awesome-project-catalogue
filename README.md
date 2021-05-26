@@ -66,3 +66,9 @@ List of amirisback activity and project doing
 | --- | ------------------- | ------------------------------------------------------------------ |
 | 1.  | finpro              | [Click Here](https://github.com/amirisback/Finpro-PA-D3IF-Telkom)  |
 | 2.  | general-framework   | [Click Here](https://github.com/amirisback/general-framework)      |
+
+## Certificate
+| No  | Name                 | Link                                                               |
+| --- | -------------------- | ------------------------------------------------------------------ |
+| 1.  | made-catalogue-movie | [Click Here](https://github.com/amirisback/made-catalogue-movie)   |
+| 2.  | kade-football.       | [Click Here](https://github.com/amirisback/kade-football)          |
