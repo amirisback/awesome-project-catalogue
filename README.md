@@ -19,7 +19,7 @@ List of amirisback activity and project doing
 | 2.  | frogo-ui-kit        | Java/Kotlin | Resources | [Click Here](https://github.com/amirisback/frogo-ui-kit)        |
 | 3.  | frogo-recycler-view | Java/Kotlin | UI Widget | [Click Here](https://github.com/amirisback/frogo-recycler-view) |
 | 4.  | frogo-notification  | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-notification)  |
-| 5.  | frogo-admob-helper  | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-admob-helper)  |
+| 5.  | frogo-admob.        | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-admob-helper)  |
 | 6.  | frogo-log           | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-log)           |
 | 7.  | frogo-toast         | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-toast)         |
 
@@ -36,12 +36,16 @@ List of amirisback activity and project doing
 | 8.  | consumable-code-covid-19-api        | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-covid-19-api)        |
 
 ### Template
-| No  | Name                                | Language    | Link                                                                            |
-| --- | ----------------------------------- | ----------- | ------------------------------------------------------------------------------- |
-| 1.  | android-kick-start-project-template | Java/Kotlin | [Click Here](https://github.com/amirisback/android-kick-start-project-template) |
-| 2.  | android-architecture-modularization | Java/Kotlin | [Click Here](https://github.com/amirisback/android-architecture-modularization) |
-| 3.  | base-webview-project                | Java/Kotlin | [Click Here](https://github.com/amirisback/base-webview-project)                |
-
+| No  | Name                                | Link                                                                            |
+| --- | ----------------------------------- | ------------------------------------------------------------------------------- |
+| 1.  | android-kick-start-project-template | [Click Here](https://github.com/amirisback/android-kick-start-project-template) |
+| 2.  | android-architecture-modularization | [Click Here](https://github.com/amirisback/android-architecture-modularization) |
+| 3.  | base-webview-project                | [Click Here](https://github.com/amirisback/base-webview-project)                |
+| 4.  | base-cleaner.                       | [Click Here](https://github.com/amirisback/base-cleaner)                        |
+| 5.  | base-2048                           | [Click Here](https://github.com/amirisback/base-2048)                           |
+| 6.  | base-music-player-lyric             | [Click Here](https://github.com/amirisback/base-music-player-lyric)             |
+| 7.  | base-music-player                   | [Click Here](https://github.com/amirisback/base-music-player)                   |
+| 8.  | base-sticker-whatsapp               | [Click Here](https://github.com/amirisback/base-sticker-whatsapp)               |
 
 ## Medium Story
 | No  | Title                                | Link Story       | Project      |
