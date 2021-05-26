@@ -1,7 +1,16 @@
 ## project-catalogue
 [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@faisalamircs)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback) <br>
-List of amirisback android library
+List of amirisback activity and project doing
+
+## Learning Code
+| No  | Name                | Link                                                            |
+| --- | ------------------- | --------------------------------------------------------------- |
+| 1.  | frogo-html-css      | [Click Here](https://github.com/amirisback/learn-html-css)      |
+| 2.  | frogo-js            | [Click Here](https://github.com/amirisback/learn-js)            |
+| 3.  | frogo-python        | [Click Here](https://github.com/amirisback/learn-python)        |
+
+## Android Library
 
 ### Frogo Android Library
 | No  | Name                | Language    | Type      | Link                                                            |
@@ -34,7 +43,7 @@ List of amirisback android library
 | 3.  | base-webview-project                | Java/Kotlin | [Click Here](https://github.com/amirisback/base-webview-project)                |
 
 
-### Medium Story
+## Medium Story
 | No  | Title                                | Link Story       | Project      |
 | --- | ------------------------------------ | ---------------- | -------------|
 | 1.  | Cara membuat library androidmu sendiri dan mempublishnya di github | [Here](https://faisalamircs.medium.com/cara-membuat-library-androidmu-sendiri-dan-mempublishnya-di-github-38fe042035ef) | [mediumstory-lib](https://github.com/amirisback/mediumstory-lib) |
@@ -46,3 +55,10 @@ List of amirisback android library
 | 7.  | Consumable Code By Amirisback?? Apa itu? (Part 2) | [Here](https://faisalamircs.medium.com/consumable-code-by-amirisback-apa-itu-part-2-7d95b258c7a5) | [awesome-frogo-consumable-code](https://github.com/amirisback/awesome-frogo-consumable-code) |
 | 8.  | Designing Digital Product Based Company (Based My Experience - Android Programmer’s Point of Views) | [Here](https://faisalamircs.medium.com/designing-digital-product-based-company-based-my-experience-android-programmers-point-of-views-390acf9c4efb) | |
 | 9.  | Tutorial RecyclerView cuman 15 detik dengan FrogoRecyclerView cocok buat Prototype untuk Client / Tugas Kuliah | [Here](https://faisalamircs.medium.com/tutorial-recyclerview-cuman-15-detik-dengan-frogorecyclerview-cocok-buat-prototype-untuk-client-ad03b1af907e) | [mediumstory-frogo-recycler-view](https://github.com/amirisback/mediumstory-frogo-recycler-view) |
+
+
+## Final Task College
+| No  | Name                | Link                                                               |
+| --- | ------------------- | ------------------------------------------------------------------ |
+| 1.  | finpro              | [Click Here](https://github.com/amirisback/Finpro-PA-D3IF-Telkom)  |
+| 2.  | general-framework   | [Click Here](https://github.com/amirisback/general-framework)      |
