@@ -19,7 +19,7 @@ List of amirisback activity and project doing
 | 2.  | frogo-ui-kit        | Java/Kotlin | Resources | [Click Here](https://github.com/amirisback/frogo-ui-kit)        |
 | 3.  | frogo-recycler-view | Java/Kotlin | UI Widget | [Click Here](https://github.com/amirisback/frogo-recycler-view) |
 | 4.  | frogo-notification  | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-notification)  |
-| 5.  | frogo-admob.        | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-admob-helper)  |
+| 5.  | frogo-admob         | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-admob-helper)  |
 | 6.  | frogo-log           | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-log)           |
 | 7.  | frogo-toast         | Java/Kotlin | Util      | [Click Here](https://github.com/amirisback/frogo-toast)         |
 
@@ -41,7 +41,7 @@ List of amirisback activity and project doing
 | 1.  | android-kick-start-project-template | [Click Here](https://github.com/amirisback/android-kick-start-project-template) |
 | 2.  | android-architecture-modularization | [Click Here](https://github.com/amirisback/android-architecture-modularization) |
 | 3.  | base-webview-project                | [Click Here](https://github.com/amirisback/base-webview-project)                |
-| 4.  | base-cleaner.                       | [Click Here](https://github.com/amirisback/base-cleaner)                        |
+| 4.  | base-cleaner                        | [Click Here](https://github.com/amirisback/base-cleaner)                        |
 | 5.  | base-2048                           | [Click Here](https://github.com/amirisback/base-2048)                           |
 | 6.  | base-music-player-lyric             | [Click Here](https://github.com/amirisback/base-music-player-lyric)             |
 | 7.  | base-music-player                   | [Click Here](https://github.com/amirisback/base-music-player)                   |
