@@ -6,9 +6,9 @@ List of amirisback activity and project doing
 ## Learning Code
 | No  | Name                | Link                                                            |
 | --- | ------------------- | --------------------------------------------------------------- |
-| 1.  | frogo-html-css      | [Click Here](https://github.com/amirisback/learn-html-css)      |
-| 2.  | frogo-js            | [Click Here](https://github.com/amirisback/learn-js)            |
-| 3.  | frogo-python        | [Click Here](https://github.com/amirisback/learn-python)        |
+| 1.  | learn-html-css      | [Click Here](https://github.com/amirisback/learn-html-css)      |
+| 2.  | learn-js            | [Click Here](https://github.com/amirisback/learn-js)            |
+| 3.  | learn-python        | [Click Here](https://github.com/amirisback/learn-python)        |
 
 ## Android Library
 
