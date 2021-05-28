@@ -3,12 +3,20 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback) <br>
 List of amirisback activity and project doing
 
+## Profile
+| No  | Name                   | Link                                                            |
+| --- | ---------------------- | --------------------------------------------------------------- |
+| 1.  | profile-amir-kotlin    | [Click Here](https://github.com/amirisback/profile-amir-kotlin) |
+| 2.  | profile-amir-python    | [Click Here](https://github.com/amirisback/profile-amir-python) |
+
 ## Learning Code
 | No  | Name                | Link                                                            |
 | --- | ------------------- | --------------------------------------------------------------- |
 | 1.  | learn-html-css      | [Click Here](https://github.com/amirisback/learn-html-css)      |
 | 2.  | learn-js            | [Click Here](https://github.com/amirisback/learn-js)            |
 | 3.  | learn-python        | [Click Here](https://github.com/amirisback/learn-python)        |
+| 4.  | learn-dart          | [Click Here](https://github.com/amirisback/learn-dart)          |
+| 5.  | learn-kotlin        | [Click Here](https://github.com/amirisback/learn-kotlin)        |
 
 ## Android Library
 
