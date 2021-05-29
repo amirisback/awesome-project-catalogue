@@ -68,6 +68,13 @@ List of amirisback activity and project doing
 | 8.  | Designing Digital Product Based Company (Based My Experience - Android Programmer’s Point of Views) | [Here](https://faisalamircs.medium.com/designing-digital-product-based-company-based-my-experience-android-programmers-point-of-views-390acf9c4efb) | |
 | 9.  | Tutorial RecyclerView cuman 15 detik dengan FrogoRecyclerView cocok buat Prototype untuk Client / Tugas Kuliah | [Here](https://faisalamircs.medium.com/tutorial-recyclerview-cuman-15-detik-dengan-frogorecyclerview-cocok-buat-prototype-untuk-client-ad03b1af907e) | [mediumstory-frogo-recycler-view](https://github.com/amirisback/mediumstory-frogo-recycler-view) |
 
+## Desktop Apps
+| No  | Name                    | Link                                                               |
+| --- | ----------------------- | ------------------------------------------------------------------ |
+| 1.  | desktop-promadika       | [Click Here](https://github.com/amirisback/desktop-promadika)      |
+| 2.  | desktop-sinop           | [Click Here](https://github.com/amirisback/desktop-sinop)          |
+| 3.  | desktop-tebak-gambar    | [Click Here](https://github.com/amirisback/desktop-tebak-gambar)   |
+| 4.  | desktop-resep-masakan   | [Click Here](https://github.com/amirisback/desktop-resep-masakan)  |
 
 ## Final Task College
 | No  | Name                | Link                                                               |
