@@ -86,4 +86,4 @@ List of amirisback activity and project doing
 | No  | Name                 | Link                                                               |
 | --- | -------------------- | ------------------------------------------------------------------ |
 | 1.  | made-catalogue-movie | [Click Here](https://github.com/amirisback/made-catalogue-movie)   |
-| 2.  | kade-football.       | [Click Here](https://github.com/amirisback/kade-football)          |
+| 2.  | kade-football        | [Click Here](https://github.com/amirisback/kade-football)          |
