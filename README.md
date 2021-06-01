@@ -10,13 +10,14 @@ List of amirisback activity and project doing
 | 2.  | profile-amir-python    | [Click Here](https://github.com/amirisback/profile-amir-python) |
 
 ## Learning Code
-| No  | Name                | Link                                                            |
-| --- | ------------------- | --------------------------------------------------------------- |
-| 1.  | learn-html-css      | [Click Here](https://github.com/amirisback/learn-html-css)      |
-| 2.  | learn-js            | [Click Here](https://github.com/amirisback/learn-js)            |
-| 3.  | learn-python        | [Click Here](https://github.com/amirisback/learn-python)        |
-| 4.  | learn-dart          | [Click Here](https://github.com/amirisback/learn-dart)          |
-| 5.  | learn-kotlin        | [Click Here](https://github.com/amirisback/learn-kotlin)        |
+| No  | Name                | Link                                                                 |
+| --- | ------------------- | -------------------------------------------------------------------- |
+| 1.  | learn-html-css      | [Click Here](https://github.com/amirisback/learn-html-css)           |
+| 2.  | learn-js            | [Click Here](https://github.com/amirisback/learn-js)                 |
+| 3.  | learn-python        | [Click Here](https://github.com/amirisback/learn-python)             |
+| 4.  | learn-dart          | [Click Here](https://github.com/amirisback/learn-dart)               |
+| 5.  | learn-kotlin        | [Click Here](https://github.com/amirisback/learn-kotlin)             |
+| 6.  | learn-android       | [Click Here](https://github.com/amirisback/learn-android-playground) |
 
 ## Android Library
 
