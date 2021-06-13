@@ -25,7 +25,7 @@ List of amirisback activity and project doing
 
 ## Learning Code
 | No  | Name                | Link                                                                 |
-|:---:|:-------------------:|:--------------------------------------------------------------------:|
+|:---:| ------------------- |:--------------------------------------------------------------------:|
 | 1.  | learn-html-css      | [Click Here](https://github.com/amirisback/learn-html-css)           |
 | 2.  | learn-js            | [Click Here](https://github.com/amirisback/learn-js)                 |
 | 3.  | learn-python        | [Click Here](https://github.com/amirisback/learn-python)             |
@@ -37,7 +37,7 @@ List of amirisback activity and project doing
 
 ### Frogo Android Library
 | No  | Name                | Language    | Type      | Link                                                            |
-|:---:|:-------------------:|:-----------:|:---------:|:---------------------------------------------------------------:|
+|:---:| ------------------- |:-----------:|:---------:|:---------------------------------------------------------------:|
 | 1.  | frogo-sdk           | Java/Kotlin | SDK       | [Click Here](https://github.com/amirisback/frogo-sdk)           |
 | 2.  | frogo-ui-kit        | Java/Kotlin | Resources | [Click Here](https://github.com/amirisback/frogo-ui-kit)        |
 | 3.  | frogo-recycler-view | Java/Kotlin | UI Widget | [Click Here](https://github.com/amirisback/frogo-recycler-view) |
@@ -48,7 +48,7 @@ List of amirisback activity and project doing
 
 ### Consumable Code Library
 | No  | Name                                | Language    | Type | Link                                                                            |
-|:---:|:-----------------------------------:|:-----------:|:----:|:-------------------------------------------------------------------------------:|
+|:---:| ----------------------------------- |:-----------:|:----:|:-------------------------------------------------------------------------------:|
 | 1.  | consumable-code-news-api            | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-news-api)            |
 | 2.  | consumable-code-the-sport-db-api    | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-the-sport-db-api)    |
 | 3.  | consumable-code-movie-tmdb-api      | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-movie-tmdb-api)      |
@@ -60,7 +60,7 @@ List of amirisback activity and project doing
 
 ### Template
 | No  | Name                                | Link                                                                            |
-|:---:|:-----------------------------------:|:-------------------------------------------------------------------------------:|
+|:---:| ----------------------------------- |:-------------------------------------------------------------------------------:|
 | 1.  | android-kick-start-project-template | [Click Here](https://github.com/amirisback/android-kick-start-project-template) |
 | 2.  | android-architecture-modularization | [Click Here](https://github.com/amirisback/android-architecture-modularization) |
 | 3.  | base-webview-project                | [Click Here](https://github.com/amirisback/base-webview-project)                |
@@ -72,7 +72,7 @@ List of amirisback activity and project doing
 
 ## Medium Story
 | No  | Title                                | Link Story       | Project      |
-|:---:|:------------------------------------:|:----------------:|:------------:|
+|:---:| ------------------------------------ |:----------------:|:------------:|
 | 1.  | Cara membuat library androidmu sendiri dan mempublishnya di github | [Here](https://faisalamircs.medium.com/cara-membuat-library-androidmu-sendiri-dan-mempublishnya-di-github-38fe042035ef) | [mediumstory-lib](https://github.com/amirisback/mediumstory-lib) |
 | 2.  | Membuat Component XML milikmu sendiri generated dari Kotlin Class Android | [Here](https://faisalamircs.medium.com/membuat-component-xml-milikmu-sendiri-generated-dari-kotlin-class-android-bc1a37a46814) | [mediumstory-component](https://github.com/amirisback/mediumstory-component) |
 | 3.  | Penggunaan Inheritance Kotlin Class Android (Contoh : BaseActivity) | [Here](https://faisalamircs.medium.com/penggunaan-inheritance-kotlin-class-android-contoh-baseactivity-a103b44c00e4) | [mediumstory-base-inheritance](https://github.com/amirisback/mediumstory-base-inheritance) |
@@ -85,7 +85,7 @@ List of amirisback activity and project doing
 
 ## Desktop Apps
 | No  | Name                    | Link                                                               |
-|:---:|:-----------------------:|:------------------------------------------------------------------:|
+|:---:| ----------------------- |:------------------------------------------------------------------:|
 | 1.  | desktop-promadika       | [Click Here](https://github.com/amirisback/desktop-promadika)      |
 | 2.  | desktop-sinop           | [Click Here](https://github.com/amirisback/desktop-sinop)          |
 | 3.  | desktop-tebak-gambar    | [Click Here](https://github.com/amirisback/desktop-tebak-gambar)   |
@@ -93,12 +93,12 @@ List of amirisback activity and project doing
 
 ## Final Task College
 | No  | Name                | Link                                                               |
-|:--- |:-------------------:|:------------------------------------------------------------------:|
+|:--- | ------------------- |:------------------------------------------------------------------:|
 | 1.  | finpro              | [Click Here](https://github.com/amirisback/Finpro-PA-D3IF-Telkom)  |
 | 2.  | general-framework   | [Click Here](https://github.com/amirisback/general-framework)      |
 
 ## Certificate
 | No  | Name                 | Link                                                               |
-|:---:|:--------------------:|:------------------------------------------------------------------:|
+|:---:| -------------------- |:------------------------------------------------------------------:|
 | 1.  | made-catalogue-movie | [Click Here](https://github.com/amirisback/made-catalogue-movie)   |
 | 2.  | kade-football        | [Click Here](https://github.com/amirisback/kade-football)          |
