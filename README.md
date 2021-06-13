@@ -5,7 +5,7 @@ List of amirisback activity and project doing
 
 ## Profile
 | No  | Name                   | Link                                                            |
-| --- | ---------------------- | --------------------------------------------------------------- |
+|:---:|:----------------------:|:---------------------------------------------------------------:|
 | 1.  | profile-amir-kotlin    | [Click Here](https://github.com/amirisback/profile-amir-kotlin) |
 | 2.  | profile-amir-python    | [Click Here](https://github.com/amirisback/profile-amir-python) |
 
@@ -79,7 +79,7 @@ List of amirisback activity and project doing
 
 ## Final Task College
 | No  | Name                | Link                                                               |
-|:--- |:------------------- |:------------------------------------------------------------------:|
+|:--- |:-------------------:|:------------------------------------------------------------------:|
 | 1.  | finpro              | [Click Here](https://github.com/amirisback/Finpro-PA-D3IF-Telkom)  |
 | 2.  | general-framework   | [Click Here](https://github.com/amirisback/general-framework)      |
 
