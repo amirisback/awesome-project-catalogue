@@ -4,10 +4,24 @@
 List of amirisback activity and project doing
 
 ## Profile
-| No  | Name                   | Link                                                            |
-| :-: | :--------------------: | :-------------------------------------------------------------: |
-| 1.  | profile-amir-kotlin    | [Click Here](https://github.com/amirisback/profile-amir-kotlin) |
-| 2.  | profile-amir-python    | [Click Here](https://github.com/amirisback/profile-amir-python) |
+
+<table>
+  <tr>
+    <th>No</th>
+    <th>Name</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>profile-amir-kotlin</td>
+    <td><a href="https://github.com/amirisback/profile-amir-kotlin">Click Here</a></td>
+  </tr>
+    <tr>
+    <td>2.</td>
+    <td>profile-amir-python</td>
+    <td><a href="https://github.com/amirisback/profile-amir-python">Click Here</a></td>
+  </tr>
+</table>
 
 ## Learning Code
 | No  | Name                | Link                                                                 |
