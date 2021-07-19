@@ -24,13 +24,13 @@ List of amirisback activity and project doing
 </table>
 
 ## Learning Code
-| No  | Name                | Link                                                                 |
-|:---:| ------------------- |:--------------------------------------------------------------------:|
-| 1.  | learn-html-css      | [Click Here](https://github.com/amirisback/learn-html-css-js)        |
-| 2.  | learn-python        | [Click Here](https://github.com/amirisback/learn-python)             |
-| 3.  | learn-dart          | [Click Here](https://github.com/amirisback/learn-dart)               |
-| 4.  | learn-kotlin        | [Click Here](https://github.com/amirisback/learn-kotlin)             |
-| 5.  | learn-android       | [Click Here](https://github.com/amirisback/learn-android-playground) |
+| No  | Name                  | Link                                                                 |
+|:---:| --------------------- |:--------------------------------------------------------------------:|
+| 1.  | playground-html-css   | [Click Here](https://github.com/amirisback/playground-html-css-js)   |
+| 2.  | playground-python     | [Click Here](https://github.com/amirisback/playground-python)        |
+| 3.  | playground-dart       | [Click Here](https://github.com/amirisback/playground-dart)          |
+| 4.  | playground-kotlin     | [Click Here](https://github.com/amirisback/playground-kotlin)        |
+| 5.  | playground-android    | [Click Here](https://github.com/amirisback/playground-android)       |
 
 ## Android Library
 
