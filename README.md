@@ -92,7 +92,7 @@ List of amirisback activity and project doing
 ## Final Task College
 | No  | Name                | Link                                                               |
 |:--- | ------------------- |:------------------------------------------------------------------:|
-| 1.  | finpro              | [Click Here](https://github.com/amirisback/Finpro-PA-D3IF-Telkom)  |
+| 1.  | finpro              | [Click Here](https://github.com/amirisback/finpro)  |
 | 2.  | general-framework   | [Click Here](https://github.com/amirisback/general-framework)      |
 
 ## Certificate
