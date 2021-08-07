@@ -23,15 +23,6 @@ List of amirisback activity and project doing
   </tr>
 </table>
 
-## Learning Code
-| No  | Name                  | Link                                                                 |
-|:---:| --------------------- |:--------------------------------------------------------------------:|
-| 1.  | playground-html-css   | [Click Here](https://github.com/amirisback/playground-html-css-js)   |
-| 2.  | playground-python     | [Click Here](https://github.com/amirisback/playground-python)        |
-| 3.  | playground-dart       | [Click Here](https://github.com/amirisback/playground-dart)          |
-| 4.  | playground-kotlin     | [Click Here](https://github.com/amirisback/playground-kotlin)        |
-| 5.  | playground-android    | [Click Here](https://github.com/amirisback/playground-android)       |
-
 ## Android Library
 
 ### Frogo Android Library
@@ -55,18 +46,6 @@ List of amirisback activity and project doing
 | 5.  | consumable-code-the-meal-db-api     | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-the-meal-db-api)     |
 | 6.  | consumable-code-the-cocktail-db-api | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-the-cocktail-db-api) |
 | 7.  | consumable-code-covid-19-api        | Java/Kotlin | Data | [Click Here](https://github.com/amirisback/consumable-code-covid-19-api)        |
-
-### Template
-| No  | Name                                | Link                                                                            |
-|:---:| ----------------------------------- |:-------------------------------------------------------------------------------:|
-| 1.  | android-kick-start-project-template | [Click Here](https://github.com/amirisback/android-kick-start-project-template) |
-| 2.  | android-architecture-modularization | [Click Here](https://github.com/amirisback/android-architecture-modularization) |
-| 3.  | base-webview-project                | [Click Here](https://github.com/amirisback/base-webview-project)                |
-| 4.  | base-cleaner                        | [Click Here](https://github.com/amirisback/base-cleaner)                        |
-| 5.  | base-2048                           | [Click Here](https://github.com/amirisback/base-2048)                           |
-| 6.  | base-music-player-lyric             | [Click Here](https://github.com/amirisback/base-music-player-lyric)             |
-| 7.  | base-music-player                   | [Click Here](https://github.com/amirisback/base-music-player)                   |
-| 8.  | base-sticker-whatsapp               | [Click Here](https://github.com/amirisback/base-sticker-whatsapp)               |
 
 ## Medium Story
 | No  | Title                                | Link Story       | Project      |
