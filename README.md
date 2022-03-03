@@ -1,7 +1,12 @@
 ## project-catalogue
 [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@faisalamircs)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback) <br>
-List of amirisback activity and project doing
+- List of amirisback activity and project doing
+
+<p>
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-blink-2.gif">
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-blink-2.gif">
+</p>
 
 ## Profile
 
